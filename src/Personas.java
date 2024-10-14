@@ -38,17 +38,5 @@ public class Personas{
 
         Personas corredor1 = new Personas("Melany", "Zabala", "Secretaria", 20, 321654987);
         corredor1.correr();
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
